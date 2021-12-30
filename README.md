@@ -9,3 +9,5 @@ DAY 1: Intro Programs
 5. isPrime
 
 DAY 2: Patterns
+
+DAY 3: Patterns (contd.)
