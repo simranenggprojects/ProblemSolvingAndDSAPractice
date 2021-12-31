@@ -13,3 +13,8 @@ DAY 2: Patterns
 DAY 3: Patterns (contd.)
 
 DAY 4: LeetCode Easy and Medium Problem Solving on easy concepts
+Link to problems solved:
+1) https://leetcode.com/problems/number-of-1-bits/
+2) https://leetcode.com/problems/reverse-integer/
+3) https://leetcode.com/problems/complement-of-base-10-integer/
+4) https://leetcode.com/problems/power-of-two/
