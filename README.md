@@ -18,3 +18,6 @@ Link to problems solved:
 2) https://leetcode.com/problems/reverse-integer/
 3) https://leetcode.com/problems/complement-of-base-10-integer/
 4) https://leetcode.com/problems/power-of-two/
+
+DAY 5: 
+1) Decimal to Binary and vice-versa
