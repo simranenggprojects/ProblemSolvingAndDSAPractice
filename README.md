@@ -22,3 +22,5 @@ Link to problems solved:
 DAY 5: Decimal to Binary and vice-versa
 
 DAY 6: Switch case and Functions
+
+DAY 7: Introduction to Arrays
