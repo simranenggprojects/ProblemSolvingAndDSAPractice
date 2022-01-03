@@ -19,5 +19,6 @@ Link to problems solved:
 3) https://leetcode.com/problems/complement-of-base-10-integer/
 4) https://leetcode.com/problems/power-of-two/
 
-DAY 5: 
-1) Decimal to Binary and vice-versa
+DAY 5: Decimal to Binary and vice-versa
+
+DAY 6: Switch case and Functions
