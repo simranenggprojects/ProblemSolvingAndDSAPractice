@@ -24,3 +24,8 @@ DAY 5: Decimal to Binary and vice-versa
 DAY 6: Switch case and Functions
 
 DAY 7: Introduction to Arrays
+
+DAY 8: Easy level problem solving on arrays on LeetCode and CodeStudio
+1) https://www.codingninjas.com/codestudio/problems/find-unique_625159
+2) https://leetcode.com/problems/unique-number-of-occurrences/
+3) https://www.codingninjas.com/codestudio/problems/duplicate-in-array_893397
